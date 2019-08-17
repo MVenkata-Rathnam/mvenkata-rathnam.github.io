@@ -111,7 +111,7 @@
         'C', 'C++', 'Java', 'Python', 'NodeJS', 'VueJS', 'AngularJS', 'MySQL','Apache HBase','Struts','Spring','Spring Boot','Hadoop','Flask','Keras','Tensorflow','PyTorch','PySyft','DyNet','Scikit-learn','OpenCV','Git'
       ],
       p_info: {
-        work: 'Incoming Technology Analyst',
+        work: 'Technology Analyst',
         place: 'Citicorp Services India Pvt. Ltd., Chennai'
       },
       education: [
@@ -125,7 +125,7 @@
         {name:'InterviewBit', href:'https://www.interviewbit.com/profile/venkat28',p_count:130},
         {name:'CodeChef', href:'https://www.codechef.com/users/venkat_28',p_count:111},
         {name:'Spoj', href:'https://www.spoj.com/users/mvenkat_97/',p_count:71},
-        {name:'UVA Online Judge', href:'https://uhunt.onlinejudge.org/id/1003835',p_count:36},
+        {name:'UVA Online Judge', href:'https://uhunt.onlinejudge.org/id/1003835',p_count:44},
         {name:'Codeforces', href:'http://codeforces.com/profile/Venkata_Rathnam_M',p_count:14},
         {name:'ACM ICPC', href:'https://icpc.baylor.edu/ICPCID/43I8GHBCXNIZ',p_count:3},
         {name:'Opengenus IQ', href:'https://iq.opengenus.org/author/venkat/',p_count:1},
